@@ -1,0 +1,419 @@
+Survived,Pclass,Sex,Age
+3,"Kelly, Mr. James",34.5,0
+3,"Wilkes, Mrs. James (Ellen Needs)",47,1
+2,"Myles, Mr. Thomas Francis",62,0
+3,"Wirz, Mr. Albert",27,0
+3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",22,1
+3,"Svensson, Mr. Johan Cervin",14,0
+3,"Connolly, Miss. Kate",30,0
+2,"Caldwell, Mr. Albert Francis",26,1
+3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",18,0
+3,"Davies, Mr. John Samuel",21,2
+3,"Ilieff, Mr. Ylio",,0
+1,"Jones, Mr. Charles Cresson",46,0
+1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",23,1
+2,"Howard, Mr. Benjamin",63,1
+1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",47,1
+2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",24,1
+2,"Keane, Mr. Daniel",35,0
+3,"Assaf, Mr. Gerios",21,0
+3,"Ilmakangas, Miss. Ida Livija",27,1
+3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",45,0
+1,"Rothschild, Mr. Martin",55,1
+3,"Olsen, Master. Artur Karl",9,0
+1,"Flegenheim, Mrs. Alfred (Antoinette)",,0
+1,"Williams, Mr. Richard Norris II",21,0
+1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",48,1
+3,"Robins, Mr. Alexander A",50,1
+1,"Ostby, Miss. Helene Ragnhild",22,0
+3,"Daher, Mr. Shedid",22.5,0
+1,"Brady, Mr. John Bertram",41,0
+3,"Samaan, Mr. Elias",,2
+2,"Louch, Mr. Charles Alexander",50,1
+2,"Jefferys, Mr. Clifford Thomas",24,2
+3,"Dean, Mrs. Bertram (Eva Georgetta Light)",33,1
+3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",,1
+1,"Mock, Mr. Philipp Edmund",30,1
+3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",18.5,0
+3,"Roth, Miss. Sarah A",,0
+3,"Cacic, Miss. Manda",21,0
+3,"Sap, Mr. Julius",25,0
+3,"Hee, Mr. Ling",,0
+3,"Karun, Mr. Franz",39,0
+1,"Franklin, Mr. Thomas Parham",,0
+3,"Goldsmith, Mr. Nathan",41,0
+2,"Corbett, Mrs. Walter H (Irene Colvin)",30,0
+1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",45,1
+3,"Peltomaki, Mr. Nikolai Johannes",25,0
+1,"Chevre, Mr. Paul Romaine",45,0
+3,"Shaughnessy, Mr. Patrick",,0
+1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",60,0
+3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",36,0
+1,"Smith, Mr. Lucien Philip",24,1
+2,"Pulbaum, Mr. Franz",27,0
+2,"Hocking, Miss. Ellen Nellie""""",20,2
+1,"Fortune, Miss. Ethel Flora",28,3
+2,"Mangiavacchi, Mr. Serafino Emilio",,0
+3,"Rice, Master. Albert",10,4
+3,"Cor, Mr. Bartol",35,0
+3,"Abelseth, Mr. Olaus Jorgensen",25,0
+3,"Davison, Mr. Thomas Henry",,1
+1,"Chaudanson, Miss. Victorine",36,0
+3,"Dika, Mr. Mirko",17,0
+2,"McCrae, Mr. Arthur Gordon",32,0
+3,"Bjorklund, Mr. Ernst Herbert",18,0
+3,"Bradley, Miss. Bridget Delia",22,0
+1,"Ryerson, Master. John Borie",13,2
+2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",,0
+3,"Burns, Miss. Mary Delia",18,0
+1,"Moore, Mr. Clarence Bloomfield",47,0
+1,"Tucker, Mr. Gilbert Milligan Jr",31,0
+1,"Fortune, Mrs. Mark (Mary McDougald)",60,1
+3,"Mulvihill, Miss. Bertha E",24,0
+3,"Minkoff, Mr. Lazar",21,0
+3,"Nieminen, Miss. Manta Josefina",29,0
+1,"Ovies y Rodriguez, Mr. Servando",28.5,0
+1,"Geiger, Miss. Amalie",35,0
+1,"Keeping, Mr. Edwin",32.5,0
+3,"Miles, Mr. Frank",,0
+1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",55,2
+2,"Aldworth, Mr. Charles Augustus",30,0
+3,"Doyle, Miss. Elizabeth",24,0
+3,"Boulos, Master. Akar",6,1
+1,"Straus, Mr. Isidor",67,1
+1,"Case, Mr. Howard Brown",49,0
+3,"Demetri, Mr. Marinko",,0
+2,"Lamb, Mr. John Joseph",,0
+3,"Khalil, Mr. Betros",,1
+3,"Barry, Miss. Julia",27,0
+3,"Badman, Miss. Emily Louisa",18,0
+3,"O'Donoghue, Ms. Bridget",,0
+2,"Wells, Master. Ralph Lester",2,1
+3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",22,1
+3,"Pedersen, Mr. Olaf",,0
+1,"Davidson, Mrs. Thornton (Orian Hays)",27,1
+3,"Guest, Mr. Robert",,0
+1,"Birnbaum, Mr. Jakob",25,0
+3,"Tenglin, Mr. Gunnar Isidor",25,0
+1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",76,1
+3,"Makinen, Mr. Kalle Edvard",29,0
+3,"Braf, Miss. Elin Ester Maria",20,0
+3,"Nancarrow, Mr. William Henry",33,0
+1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",43,1
+2,"Weisz, Mr. Leopold",27,1
+3,"Foley, Mr. William",,0
+3,"Johansson Palmquist, Mr. Oskar Leander",26,0
+3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",16,1
+3,"Holthen, Mr. Johan Martin",28,0
+3,"Buckley, Mr. Daniel",21,0
+3,"Ryan, Mr. Edward",,0
+3,"Willer, Mr. Aaron (Abi Weller"")""",,0
+2,"Swane, Mr. George",18.5,0
+2,"Stanton, Mr. Samuel Ward",41,0
+3,"Shine, Miss. Ellen Natalia",,0
+1,"Evans, Miss. Edith Corse",36,0
+3,"Buckley, Miss. Katherine",18.5,0
+1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",63,1
+3,"Chronopoulos, Mr. Demetrios",18,1
+3,"Thomas, Mr. John",,0
+3,"Sandstrom, Miss. Beatrice Irene",1,1
+1,"Beattie, Mr. Thomson",36,0
+2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",29,1
+2,"Watt, Miss. Bertha J",12,0
+3,"Kiernan, Mr. John",,1
+1,"Schabert, Mrs. Paul (Emma Mock)",35,1
+3,"Carver, Mr. Alfred John",28,0
+3,"Kennedy, Mr. John",,0
+3,"Cribb, Miss. Laura Alice",17,0
+3,"Brobeck, Mr. Karl Rudolf",22,0
+3,"McCoy, Miss. Alicia",,2
+2,"Bowenur, Mr. Solomon",42,0
+3,"Petersen, Mr. Marius",24,0
+3,"Spinner, Mr. Henry John",32,0
+1,"Gracie, Col. Archibald IV",53,0
+3,"Lefebre, Mrs. Frank (Frances)",,0
+3,"Thomas, Mr. Charles P",,1
+3,"Dintcheff, Mr. Valtcho",43,0
+3,"Carlsson, Mr. Carl Robert",24,0
+3,"Zakarian, Mr. Mapriededer",26.5,0
+2,"Schmidt, Mr. August",26,0
+3,"Drapkin, Miss. Jennie",23,0
+3,"Goodwin, Mr. Charles Frederick",40,1
+3,"Goodwin, Miss. Jessie Allis",10,5
+1,"Daniels, Miss. Sarah",33,0
+1,"Ryerson, Mr. Arthur Larned",61,1
+2,"Beauchamp, Mr. Henry James",28,0
+1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",42,0
+3,"Vander Planke, Mr. Julius",31,3
+1,"Hilliard, Mr. Herbert Henry",,0
+3,"Davies, Mr. Evan",22,0
+1,"Crafton, Mr. John Bertram",,0
+2,"Lahtinen, Rev. William",30,1
+1,"Earnshaw, Mrs. Boulton (Olive Potter)",23,0
+3,"Matinoff, Mr. Nicola",,0
+3,"Storey, Mr. Thomas",60.5,0
+3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",36,0
+3,"Asplund, Master. Filip Oscar",13,4
+3,"Duquemin, Mr. Joseph",24,0
+1,"Bird, Miss. Ellen",29,0
+3,"Lundin, Miss. Olga Elida",23,0
+1,"Borebank, Mr. John James",42,0
+3,"Peacock, Mrs. Benjamin (Edith Nile)",26,0
+3,"Smyth, Miss. Julia",,0
+3,"Touma, Master. Georges Youssef",7,1
+2,"Wright, Miss. Marion",26,0
+3,"Pearce, Mr. Ernest",,0
+2,"Peruschitz, Rev. Joseph Maria",41,0
+3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",26,1
+1,"Brandeis, Mr. Emil",48,0
+3,"Ford, Mr. Edward Watson",18,2
+1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",,0
+3,"Hellstrom, Miss. Hilda Maria",22,0
+3,"Lithman, Mr. Simon",,0
+3,"Zakarian, Mr. Ortin",27,0
+3,"Dyker, Mr. Adolf Fredrik",23,1
+3,"Torfa, Mr. Assad",,0
+3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",40,1
+2,"Brown, Miss. Edith Eileen",15,0
+2,"Sincock, Miss. Maude",20,0
+1,"Stengel, Mr. Charles Emil Henry",54,1
+2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",36,0
+1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",64,0
+2,"McCrie, Mr. James Matthew",30,0
+1,"Compton, Mr. Alexander Taylor Jr",37,1
+1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",18,1
+3,"Lane, Mr. Patrick",,0
+1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",27,1
+2,"Maybery, Mr. Frank Hubert",40,0
+2,"Phillips, Miss. Alice Frances Louisa",21,0
+3,"Davies, Mr. Joseph",17,2
+3,"Sage, Miss. Ada",,8
+2,"Veal, Mr. James",40,0
+2,"Angle, Mr. William A",34,1
+1,"Salomon, Mr. Abraham L",,0
+3,"van Billiard, Master. Walter John",11.5,1
+2,"Lingane, Mr. John",61,0
+2,"Drew, Master. Marshall Brines",8,0
+3,"Karlsson, Mr. Julius Konrad Eugen",33,0
+1,"Spedden, Master. Robert Douglas",6,0
+3,"Nilsson, Miss. Berta Olivia",18,0
+2,"Baimbrigge, Mr. Charles Robert",23,0
+3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",,0
+3,"Murphy, Miss. Nora",,0
+3,"Danbom, Master. Gilbert Sigvard Emanuel",0.33,0
+1,"Astor, Col. John Jacob",47,1
+2,"Quick, Miss. Winifred Vera",8,1
+2,"Andrew, Mr. Frank Thomas",25,0
+1,"Omont, Mr. Alfred Fernand",,0
+3,"McGowan, Miss. Katherine",35,0
+2,"Collett, Mr. Sidney C Stuart",24,0
+1,"Rosenbaum, Miss. Edith Louise",33,0
+3,"Delalic, Mr. Redjo",25,0
+3,"Andersen, Mr. Albert Karvin",32,0
+3,"Finoli, Mr. Luigi",,0
+2,"Deacon, Mr. Percy William",17,0
+2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",60,1
+3,"Andersson, Miss. Ida Augusta Margareta",38,4
+1,"Head, Mr. Christopher",42,0
+3,"Mahon, Miss. Bridget Delia",,0
+1,"Wick, Mr. George Dennick",57,1
+1,"Widener, Mrs. George Dunton (Eleanor Elkins)",50,1
+3,"Thomson, Mr. Alexander Morrison",,0
+2,"Duran y More, Miss. Florentina",30,1
+3,"Reynolds, Mr. Harold J",21,0
+2,"Cook, Mrs. (Selena Rogers)",22,0
+3,"Karlsson, Mr. Einar Gervasius",21,0
+1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",53,0
+3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",,0
+3,"Asplund, Mr. Johan Charles",23,0
+3,"McNeill, Miss. Bridget",,0
+3,"Everett, Mr. Thomas James",40.5,0
+2,"Hocking, Mr. Samuel James Metcalfe",36,0
+2,"Sweet, Mr. George Frederick",14,0
+1,"Willard, Miss. Constance",21,0
+3,"Wiklund, Mr. Karl Johan",21,1
+3,"Linehan, Mr. Michael",,0
+1,"Cumings, Mr. John Bradley",39,1
+3,"Vendel, Mr. Olof Edvin",20,0
+1,"Warren, Mr. Frank Manley",64,1
+3,"Baccos, Mr. Raffull",20,0
+2,"Hiltunen, Miss. Marta",18,1
+1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",48,1
+1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",55,0
+2,"Christy, Mrs. (Alice Frances)",45,0
+1,"Spedden, Mr. Frederic Oakley",45,1
+3,"Hyman, Mr. Abraham",,0
+3,"Johnston, Master. William Arthur Willie""""",,1
+1,"Kenyon, Mr. Frederick R",41,1
+2,"Karnes, Mrs. J Frank (Claire Bennett)",22,0
+2,"Drew, Mr. James Vivian",42,1
+2,"Hold, Mrs. Stephen (Annie Margaret Hill)",29,1
+3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",,1
+2,"West, Miss. Barbara J",0.92,1
+3,"Abrahamsson, Mr. Abraham August Johannes",20,0
+1,"Clark, Mr. Walter Miller",27,1
+3,"Salander, Mr. Karl Johan",24,0
+3,"Wenzel, Mr. Linhart",32.5,0
+3,"MacKay, Mr. George William",,0
+3,"Mahon, Mr. John",,0
+3,"Niklasson, Mr. Samuel",28,0
+2,"Bentham, Miss. Lilian W",19,0
+3,"Midtsjo, Mr. Karl Albert",21,0
+3,"de Messemaeker, Mr. Guillaume Joseph",36.5,1
+3,"Nilsson, Mr. August Ferdinand",21,0
+2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",29,0
+3,"Klasen, Miss. Gertrud Emilia",1,1
+2,"Portaluppi, Mr. Emilio Ilario Giuseppe",30,0
+3,"Lyntakoff, Mr. Stanko",,0
+1,"Chisholm, Mr. Roderick Robert Crispin",,0
+3,"Warren, Mr. Charles William",,0
+3,"Howard, Miss. May Elizabeth",,0
+3,"Pokrnic, Mr. Mate",17,0
+1,"McCaffry, Mr. Thomas Francis",46,0
+3,"Fox, Mr. Patrick",,0
+1,"Clark, Mrs. Walter Miller (Virginia McDowell)",26,1
+3,"Lennon, Miss. Mary",,1
+3,"Saade, Mr. Jean Nassr",,0
+2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",20,1
+2,"Parker, Mr. Clifford Richard",28,0
+2,"Faunthorpe, Mr. Harry",40,1
+2,"Ware, Mr. John James",30,1
+2,"Oxenham, Mr. Percy Thomas",22,0
+3,"Oreskovic, Miss. Jelka",23,0
+3,"Peacock, Master. Alfred Edward",0.75,1
+3,"Fleming, Miss. Honora",,0
+3,"Touma, Miss. Maria Youssef",9,1
+3,"Rosblom, Miss. Salli Helena",2,1
+3,"Dennis, Mr. William",36,0
+3,"Franklin, Mr. Charles (Charles Fardon)",,0
+1,"Snyder, Mr. John Pillsbury",24,1
+3,"Mardirosian, Mr. Sarkis",,0
+3,"Ford, Mr. Arthur",,0
+1,"Rheims, Mr. George Alexander Lucien",,0
+3,"Daly, Miss. Margaret Marcella Maggie""""",30,0
+3,"Nasr, Mr. Mustafa",,0
+1,"Dodge, Dr. Washington",53,1
+3,"Wittevrongel, Mr. Camille",36,0
+3,"Angheloff, Mr. Minko",26,0
+2,"Laroche, Miss. Louise",1,1
+3,"Samaan, Mr. Hanna",,2
+1,"Loring, Mr. Joseph Holland",30,0
+3,"Johansson, Mr. Nils",29,0
+3,"Olsson, Mr. Oscar Wilhelm",32,0
+2,"Malachard, Mr. Noel",,0
+2,"Phillips, Mr. Escott Robert",43,0
+3,"Pokrnic, Mr. Tome",24,0
+3,"McCarthy, Miss. Catherine Katie""""",,0
+1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",64,1
+1,"Allison, Mr. Hudson Joshua Creighton",30,1
+3,"Aks, Master. Philip Frank",0.83,0
+1,"Hays, Mr. Charles Melville",55,1
+3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",45,1
+3,"Cacic, Mr. Jego Grga",18,0
+3,"Vartanian, Mr. David",22,0
+3,"Sadowitz, Mr. Harry",,0
+3,"Carr, Miss. Jeannie",37,0
+1,"White, Mrs. John Stuart (Ella Holmes)",55,0
+3,"Hagardon, Miss. Kate",17,0
+1,"Spencer, Mr. William Augustus",57,1
+2,"Rogers, Mr. Reginald Harry",19,0
+3,"Jonsson, Mr. Nils Hilding",27,0
+2,"Jefferys, Mr. Ernest Wilfred",22,2
+3,"Andersson, Mr. Johan Samuel",26,0
+3,"Krekorian, Mr. Neshan",25,0
+2,"Nesson, Mr. Israel",26,0
+1,"Rowe, Mr. Alfred G",33,0
+1,"Kreuchen, Miss. Emilie",39,0
+3,"Assam, Mr. Ali",23,0
+2,"Becker, Miss. Ruth Elizabeth",12,2
+1,"Rosenshine, Mr. George (Mr George Thorne"")""",46,0
+2,"Clarke, Mr. Charles Valentine",29,1
+2,"Enander, Mr. Ingvar",21,0
+2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",48,0
+1,"Dulles, Mr. William Crothers",39,0
+3,"Thomas, Mr. Tannous",,0
+3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",19,1
+3,"Cor, Mr. Ivan",27,0
+1,"Maguire, Mr. John Edward",30,0
+2,"de Brito, Mr. Jose Joaquim",32,0
+3,"Elias, Mr. Joseph",39,0
+2,"Denbury, Mr. Herbert",25,0
+3,"Betros, Master. Seman",,0
+2,"Fillbrook, Mr. Joseph Charles",18,0
+3,"Lundstrom, Mr. Thure Edvin",32,0
+3,"Sage, Mr. John George",,1
+1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",58,0
+3,"van Billiard, Master. James William",,1
+3,"Abelseth, Miss. Karen Marie",16,0
+2,"Botsford, Mr. William Hull",26,0
+3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",38,0
+2,"Giles, Mr. Ralph",24,0
+2,"Walcroft, Miss. Nellie",31,0
+1,"Greenfield, Mrs. Leo David (Blanche Strouse)",45,0
+2,"Stokes, Mr. Philip Joseph",25,0
+2,"Dibden, Mr. William",18,0
+2,"Herman, Mr. Samuel",49,1
+3,"Dean, Miss. Elizabeth Gladys Millvina""""",0.17,1
+1,"Julian, Mr. Henry Forbes",50,0
+1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",59,2
+3,"Lockyer, Mr. Edward",,0
+3,"O'Keefe, Mr. Patrick",,0
+3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",30,1
+3,"Sage, Master. William Henry",14.5,8
+2,"Mallet, Mrs. Albert (Antoinette Magnin)",24,1
+2,"Ware, Mrs. John James (Florence Louise Long)",31,0
+3,"Strilic, Mr. Ivan",27,0
+1,"Harder, Mrs. George Achilles (Dorothy Annan)",25,1
+3,"Sage, Mrs. John (Annie Bullen)",,1
+3,"Caram, Mr. Joseph",,1
+3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",22,0
+1,"Gibson, Mrs. Leonard (Pauline C Boeson)",45,0
+2,"Pallas y Castello, Mr. Emilio",29,0
+2,"Giles, Mr. Edgar",21,1
+1,"Wilson, Miss. Helen Alice",31,0
+1,"Ismay, Mr. Joseph Bruce",49,0
+2,"Harbeck, Mr. William H",44,0
+1,"Dodge, Mrs. Washington (Ruth Vidaver)",54,1
+1,"Bowen, Miss. Grace Scott",45,0
+3,"Kink, Miss. Maria",22,2
+2,"Cotterill, Mr. Henry Harry""""",21,0
+1,"Hipkins, Mr. William Edward",55,0
+3,"Asplund, Master. Carl Edgar",5,4
+3,"O'Connor, Mr. Patrick",,0
+3,"Foley, Mr. Joseph",26,0
+3,"Risien, Mrs. Samuel (Emma)",,0
+3,"McNamee, Mrs. Neal (Eileen O'Leary)",19,1
+2,"Wheeler, Mr. Edwin Frederick""""",,0
+2,"Herman, Miss. Kate",24,1
+3,"Aronsson, Mr. Ernst Axel Algot",24,0
+2,"Ashby, Mr. John",57,0
+3,"Canavan, Mr. Patrick",21,0
+3,"Palsson, Master. Paul Folke",6,3
+1,"Payne, Mr. Vivian Ponsonby",23,0
+1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",51,0
+3,"Abbott, Master. Eugene Joseph",13,0
+2,"Gilbert, Mr. William",47,0
+3,"Kink-Heilmann, Mr. Anton",29,3
+1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",18,1
+3,"Colbert, Mr. Patrick",24,0
+1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",48,1
+3,"Larsson-Rondberg, Mr. Edvard A",22,0
+3,"Conlon, Mr. Thomas Henry",31,0
+1,"Bonnell, Miss. Caroline",30,0
+2,"Gale, Mr. Harry",38,1
+1,"Gibson, Miss. Dorothy Winifred",22,0
+1,"Carrau, Mr. Jose Pedro",17,0
+1,"Frauenthal, Mr. Isaac Gerald",43,1
+2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",20,0
+2,"Ware, Mr. William Jeffery",23,1
+1,"Widener, Mr. George Dunton",50,1
+3,"Riordan, Miss. Johanna Hannah""""",,0
+3,"Peacock, Miss. Treasteall",3,1
+3,"Naughton, Miss. Hannah",,0
+1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",37,1
+3,"Henriksson, Miss. Jenny Lovisa",28,0
+3,"Spector, Mr. Woolf",,0
+1,"Oliva y Ocana, Dona. Fermina",39,0
+3,"Saether, Mr. Simon Sivertsen",38.5,0
+3,"Ware, Mr. Frederick",,0
+3,"Peter, Master. Michael J",,1
